@@ -27,28 +27,25 @@ To get started with the project, you need to have Node.js and npm installed on y
 - npm start
 
 - knack/
+
 ├── node_modules/
+├── particles/
 ├── public/
-│   ├── account icon.svg
-│   ├── cart icon.svg
-│   ├── ic1.png
-│   ├── ic2.webp
-│   ├── ic3.webp
-│   ├── ic4.png
+│   ├── favicon.png
+│   ├── knack-logo.svg
 │   ├── index.html
-│   ├── ms.webp
-│   ├── mslogo.png
-│   ├── search.svg
 ├── src/
 │   ├── styles/
 │   │   ├── style.css
+│   ├── components/
+│   │   ├── SignupForm.js
 │   ├── App.js
 │   ├── index.js
 ├── .gitignore
+├── .prettierrc
 ├── package-lock.json
 ├── package.json
-├── postcss.config.js
-├── tailwind.config.js
 ├── README.md
+
 
 
