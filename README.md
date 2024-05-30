@@ -1,3 +1,5 @@
+For backend (https://github.com/Dynamic-Aryan/knack_backend)
+
 # KnacK (Ed Tech App)
 
 This project is an Ed Tech application designed to enhance the educational experience by providing a platform for interactive learning and resource sharing. It aims to offer a seamless user interface and a comprehensive set of features tailored for students and educators.
@@ -15,7 +17,7 @@ To get started with the project, you need to have Node.js and npm installed on y
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/microsoft-home-page-clone.git
+   git clone https://github.com/Dynamic-Aryan/KnacK.git
 
 
 -then   
