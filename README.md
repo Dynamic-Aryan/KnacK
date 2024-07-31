@@ -1,68 +1,67 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+For backend (https://github.com/Dynamic-Aryan/knack_backend)
 
-## Available Scripts
+# KnacK (Ed Tech App)
 
-In the project directory, you can run:
+This project is an Ed Tech application designed to enhance the educational experience by providing a platform for interactive learning and resource sharing. It aims to offer a seamless user interface and a comprehensive set of features tailored for students and educators.
 
-### `npm start`
+# Output
+![Screenshot 2024-05-30 103031](https://github.com/Dynamic-Aryan/KnacK/assets/97832985/65b92f65-fd03-4aff-bab4-9bd5898d26c9)
+![Screenshot 2024-05-30 103045](https://github.com/Dynamic-Aryan/KnacK/assets/97832985/a52d033f-5dcc-459c-9cd5-e450b2a69e22)
+![Screenshot 2024-05-30 103055](https://github.com/Dynamic-Aryan/KnacK/assets/97832985/de011cb3-dd3d-490f-b09a-111568ce8b05)
+![Screenshot 2024-05-30 103109](https://github.com/Dynamic-Aryan/KnacK/assets/97832985/a233585d-0c43-4d52-8ba6-a86fb838c55e)
+![Screenshot 2024-05-30 103119](https://github.com/Dynamic-Aryan/KnacK/assets/97832985/e64fa06e-513d-43d4-88f5-5b554c096e28)
+![Screenshot 2024-05-30 103136](https://github.com/Dynamic-Aryan/KnacK/assets/97832985/6662cce6-e622-44cc-a957-55fdd5d59b16)
+![Screenshot 2024-05-30 103148](https://github.com/Dynamic-Aryan/KnacK/assets/97832985/6b04229e-9c7e-457b-95ba-3a2fa6d02516)
+![Screenshot 2024-05-30 103200](https://github.com/Dynamic-Aryan/KnacK/assets/97832985/9b36ee65-3d73-4a07-8481-1de6402d1f55)
+![Screenshot 2024-05-30 103241](https://github.com/Dynamic-Aryan/KnacK/assets/97832985/2f4c3855-a818-44bb-ba0f-4591131293ce)
+![Screenshot 2024-05-30 103252](https://github.com/Dynamic-Aryan/KnacK/assets/97832985/67738300-83fe-4301-945a-c7a5b3f9ea47)
+![Screenshot 2024-05-30 103301](https://github.com/Dynamic-Aryan/KnacK/assets/97832985/94ec6617-d32d-4bd3-b361-2795f6ac302a)
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## Table of Contents
 
-### `npm test`
+- [Installation](#installation)
+- [Usage](#usage)
+- [Project Structure](#project-structure)
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## Installation
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+To get started with the project, you need to have Node.js and npm installed on your machine. If you don't have them installed, you can download and install them from [Node.js](https://nodejs.org/).
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/Dynamic-Aryan/KnacK.git
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+-then   
+   ```sh
+   cd (your directory name)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- npm install
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- npm start
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+- knack/
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+├── node_modules/
+├── particles/
+├── public/
+│   ├── favicon.png
+│   ├── knack-logo.svg
+│   ├── index.html
+├── src/
+│   ├── styles/
+│   │   ├── style.css
+│   ├── components/
+│   │   ├── SignupForm.js
+│   ├── App.js
+│   ├── index.js
+├── .gitignore
+├── .prettierrc
+├── package-lock.json
+├── package.json
+├── README.md
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
