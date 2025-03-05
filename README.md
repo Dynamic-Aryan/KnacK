@@ -1,5 +1,6 @@
 # [Knack Startup](https://knackstartupapp.netlify.app/)
 For backend (https://github.com/Dynamic-Aryan/knack_backend)
+For frontend (https://knackstartupapp.netlify.app/)
 
 # KnacK (Ed Tech App)
 
